@@ -28,6 +28,10 @@ public class Main {
 		int subResult = cal.sub(2, 1);
 		System.out.println(subResult);
 		
+		
+		System.out.println("집에서 작업시작");
+		System.out.println("집에서 작업끝");
+		
 
 	}
 
