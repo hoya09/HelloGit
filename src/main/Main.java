@@ -25,6 +25,9 @@ public class Main {
 		int addResult = cal.add(1, 2);
 		System.out.println(addResult);
 		
+		int subResult = cal.sub(2, 1);
+		System.out.println(subResult);
+		
 
 	}
 
